@@ -1,10 +1,17 @@
-<h1>Hi, I'm Suhani! <br/><a href="https://github.com/joshmadakor1">Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">CyberSecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
+<h1>Hi, I'm Suhani! <br/><a href="https://github.com/suhanichoudharry">Student</a>, <a href="https://www.linkedin.com/in/suhani-choudhary-946817242/">CyberSecurity Enthusiast</a>, <a href="https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw"> and a Programmer</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
 - <b>Antivirus Software using Python</b>
   - [AntiDote (Using concept of Hash)](https://github.com/suhanichoudharry/antidote)
+  
+<h2>🏆 CyberSecurity Certifications and Courses:</h2>
+
+- <b>EC-Council Certified Network Defender</b>
+  - [Link to my certificate](https://drive.google.com/file/d/13uCg1OpeXR0qHBhg-A2MY9OAGb7EOEuG/view?usp=sharing)<br>
+- <b>PreGrad Cyber Security Associate (Beginner)</b>
+  - [Link to my certificate](https://drive.google.com/file/d/1VcAt1JEQM8g5GAXkP4rMCFWxBZQqOhEG/view?usp=sharing)
 
 <h2>📺 My YouTube </h2>
 
@@ -21,7 +28,7 @@
 [twitter]: https://twitter.com/suhaniwork
 [youtube]: https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw
 [instagram]: https://www.instagram.com/suhanichoudharry/?next=%2F
-[linkedin]: https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw
+[linkedin]: https://www.linkedin.com/in/suhani-choudhary-946817242/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
