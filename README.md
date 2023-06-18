@@ -9,6 +9,8 @@
   - [Click to see Memorandum (Google CyberSecurity Professional Certificate Activity)](https://docs.google.com/document/d/18aXHa4Q34uZ8Jw6q6KuT3h_yJpL9xUeZWXF3TZhfdX0/edit?usp=sharing&resourcekey=0-FTiPoj4huT2KBvJ1OherIw)
 - <b> Used the NIST Cybersecurity Framework to respond to a security incident</b>
   - [Click to see Incident Report Analysis (Google CyberSecurity Professional Certificate Activity)](https://docs.google.com/document/d/1sYS9d0614DqFA1vvKWI6NTeBn4cvbJ5TzoonVym-d54/edit?usp=sharing&resourcekey=0-9FXjI0cscYmQbTwTey14RQ)
+<br>
+<br>
   
 <h2>🏆 CyberSecurity Certifications and Courses</h2>
 
@@ -16,12 +18,21 @@
   - [Link to my certificate](https://drive.google.com/file/d/13uCg1OpeXR0qHBhg-A2MY9OAGb7EOEuG/view?usp=sharing)<br>
 - <b>PreGrad Cyber Security Associate (Beginner)</b>
   - [Link to my certificate](https://drive.google.com/file/d/1VcAt1JEQM8g5GAXkP4rMCFWxBZQqOhEG/view?usp=sharing)
+<br>
+<br>
+
+<h2> 🖊 Research based Projects</h2>
+
+- <b>Phishing Simulations (working currently)</b>
+<br>
+<br>
 
 <h2>📺 My YouTube </h2>
 
 - [Link to my channel](https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw)
 
-
+<br>
+<br>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SuhaniChoudhary | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
