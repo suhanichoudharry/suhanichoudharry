@@ -21,7 +21,7 @@
 - <b>PreGrad Cyber Security Associate (Beginner)</b>
   - [Link to my certificate](https://drive.google.com/file/d/1VcAt1JEQM8g5GAXkP4rMCFWxBZQqOhEG/view?usp=sharing)
 - <b>Google CyberSecurity Professional Certificate</b>
-  - [Link to my certificate](https://drive.google.com/file/d/1i9b51TvNIbAFTByzoG-97pFVq-jQZtNy/view?usp=sharing)
+  - [Link to my certificate](https://drive.google.com/file/d/1uHHy_RFyDBtDfDMDxKqIRoMLWkVQFmdq/view?usp=sharing)
 <br>
 <br>
 
