@@ -33,7 +33,7 @@
 <h2> 💡 Skills</h2>
 
 - <b>Network Protocol Analyzer (tcpdump and Wireshark)</b>
-- <b>IDS (Suricata)
+- <b>IDS (Suricata)</b>
 - <b>SIEM (Splunk)
 <br>
 <br>
