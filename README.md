@@ -1,6 +1,6 @@
 <h1>Hi, I'm Suhani! <br/><a href="https://github.com/suhanichoudharry">Student</a>, <a href="https://www.linkedin.com/in/suhani-choudhary-946817242/">CyberSecurity Enthusiast</a>, <a href="https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw"> and a Programmer</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 
 - <b>Antivirus Software using Python</b>
@@ -14,7 +14,7 @@
 <br>
 <br>
   
-<h2>🏆 CyberSecurity Certifications and Courses</h2>
+<h2>🏆 Certifications and Courses</h2>
 
 - <b>EC-Council Certified Network Defender</b>
   - [Link to my certificate](https://drive.google.com/file/d/13uCg1OpeXR0qHBhg-A2MY9OAGb7EOEuG/view?usp=sharing)<br>
@@ -32,7 +32,7 @@
 <br>
 <h2> 💡 Skills</h2>
 
-- <b>Network Protocol Analyzer (tcpdump and Wireshark)</b>
+- <b>Network Protocol Analyzer (Tcpdump and Wireshark)</b>
 - <b>IDS (Suricata)</b>
 - <b>SIEM (Splunk)
 <br>
