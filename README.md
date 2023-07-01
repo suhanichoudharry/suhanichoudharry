@@ -1,4 +1,4 @@
-<h1>Hi, I'm Suhani! <br/><a href="https://github.com/suhanichoudharry">Student</a>, <a href="https://www.linkedin.com/in/suhani-choudhary-946817242/">CyberSecurity Enthusiast</a>, <a href="https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw"> and a Programmer</a></h1>
+<h1>Hi, I'm Suhani! <br/><a href="https://github.com/suhanichoudharry">Student</a>, <a href="https://www.linkedin.com/in/suhani-choudhary-946817242/">CyberSecurity Enthusiast</a>, <a href="https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw"> and a Python Programmer</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects</h2>
 
@@ -16,12 +16,9 @@
   
 <h2>🏆 Certifications and Courses</h2>
 
-- <b>EC-Council Certified Network Defender</b>
-  - [Link to my certificate](https://drive.google.com/file/d/13uCg1OpeXR0qHBhg-A2MY9OAGb7EOEuG/view?usp=sharing)<br>
-- <b>PreGrad Cyber Security Associate (Beginner)</b>
-  - [Link to my certificate](https://drive.google.com/file/d/1VcAt1JEQM8g5GAXkP4rMCFWxBZQqOhEG/view?usp=sharing)
-- <b>Google CyberSecurity Professional Certificate</b>
-  - [Link to my certificate](https://drive.google.com/file/d/1uHHy_RFyDBtDfDMDxKqIRoMLWkVQFmdq/view?usp=sharing)
+- <b>EC-Council Certified Network Defender</b> [Verify](https://drive.google.com/file/d/13uCg1OpeXR0qHBhg-A2MY9OAGb7EOEuG/view?usp=sharing)<br>
+- <b>PreGrad Cyber Security Associate (Beginner)</b> [Verify](https://drive.google.com/file/d/1VcAt1JEQM8g5GAXkP4rMCFWxBZQqOhEG/view?usp=sharing)
+- <b>Google CyberSecurity Professional Certificate</b> [Verify](https://drive.google.com/file/d/1uHHy_RFyDBtDfDMDxKqIRoMLWkVQFmdq/view?usp=sharing)
 <br>
 <br>
 <h2> 🐍 Python Projects</h2>
