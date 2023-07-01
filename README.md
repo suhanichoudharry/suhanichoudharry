@@ -1,6 +1,6 @@
 <h1>Hi, I'm Suhani! <br/><a href="https://github.com/suhanichoudharry">Student</a>, <a href="https://www.linkedin.com/in/suhani-choudhary-946817242/">CyberSecurity Enthusiast</a>, <a href="https://www.youtube.com/channel/UC-9yN-mbnbmrlXxQUeRcDUw"> and a Programmer</a></h1>
 
-<h2>👨‍💻 Projects</h2>
+<h2>👨‍💻 CyberSecurity Projects</h2>
 
 
 - <b>Antivirus Software using Python</b>
@@ -24,7 +24,12 @@
   - [Link to my certificate](https://drive.google.com/file/d/1uHHy_RFyDBtDfDMDxKqIRoMLWkVQFmdq/view?usp=sharing)
 <br>
 <br>
+<h2> 🐍 Python Projects</h2>
 
+- <b>RoboSpeaker (CLI text to speech generator) </b><br>
+  - [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker.git)
+<br>
+<br>
 <h2> 🖊 Research based Projects</h2>
 
 - <b>Phishing Simulations (working currently)</b>
