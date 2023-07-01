@@ -26,8 +26,8 @@
 <br>
 <h2> 🐍 Python Projects</h2>
 
-- <b>RoboSpeaker (CLI TextToSpeech generator) </b><br>
-  - [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
+- <b>RoboSpeaker (CLI TextToSpeech generator)    </b>   [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
+- <b>WeatherNow (RealTime Weather Infomator)     </b>   [Link to Repository](https://github.com/suhanichoudharry/WeatherNow)
 <br>
 <br>
 <h2> 🖊 Research based Projects</h2>
