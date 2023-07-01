@@ -26,7 +26,7 @@
 <br>
 <h2> 🐍 Python Projects</h2>
 
-- <b>RoboSpeaker (CLI text to speech generator) </b><br>
+- <b>RoboSpeaker (CLI TextToSpeech generator) </b><br>
   - [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
 <br>
 <br>
