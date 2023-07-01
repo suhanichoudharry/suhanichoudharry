@@ -4,7 +4,7 @@
 
 
 - <b>Antivirus Software using Python</b>
-  - [AntiDote (Using the concept of Hash)](https://github.com/suhanichoudharry/antidote)
+  - [AntiDote (Using the concept of Hash)](https://github.com/suhanichoudharry/AntidoteAntivirus)
 - <b> Performed Security Audit </b>
   - [Click to see Memorandum (Google CyberSecurity Professional Certificate Activity)](https://docs.google.com/document/d/18aXHa4Q34uZ8Jw6q6KuT3h_yJpL9xUeZWXF3TZhfdX0/edit?usp=sharing&resourcekey=0-FTiPoj4huT2KBvJ1OherIw)
 - <b> Used the NIST Cybersecurity Framework to respond to a security incident</b>
@@ -27,7 +27,7 @@
 <h2> 🐍 Python Projects</h2>
 
 - <b>RoboSpeaker (CLI text to speech generator) </b><br>
-  - [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker.git)
+  - [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
 <br>
 <br>
 <h2> 🖊 Research based Projects</h2>
