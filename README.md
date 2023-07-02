@@ -25,6 +25,7 @@
 
 - <b>RoboSpeaker (CLI TextToSpeech generator)    </b>   [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
 - <b>WeatherNow (RealTime Weather Infomator)     </b>   [Link to Repository](https://github.com/suhanichoudharry/WeatherNow)
+- <b>ResizeImage (Change dimensions of a file)     </b>   [Link to Repository](https://github.com/suhanichoudharry/ResizeImage)
 <br>
 <br>
 <h2> 🖊 Research based Projects</h2>
