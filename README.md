@@ -26,6 +26,8 @@
 - <b>RoboSpeaker (CLI TextToSpeech generator)    </b>   [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
 - <b>WeatherNow (RealTime Weather Infomator)     </b>   [Link to Repository](https://github.com/suhanichoudharry/WeatherNow)
 - <b>ResizeImage (Change dimensions of a file)     </b>   [Link to Repository](https://github.com/suhanichoudharry/ResizeImage)
+- <b>PdfMerger (Can merge two or more pdfs together)     </b>   [Link to Repository](https://github.com/suhanichoudharry/PdfMerger)
+- <b>Recognise (Face-Detection Attendance System)     </b>   [Link to Repository](https://github.com/suhanichoudharry/Recognise)
 <br>
 <br>
 <h2> 🖊 Research based Projects</h2>
