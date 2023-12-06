@@ -3,8 +3,8 @@
 <h2>👨‍💻 CyberSecurity Projects</h2>
 
 
-- <b>Antivirus Software using Python</b>
-  - [AntiDote (Using the concept of Hash)](https://github.com/suhanichoudharry/AntidoteAntivirus)
+- <b>project</b>
+  - [LINK](https://github.com/suhanichoudharry/AntidoteAntivirus)
 - <b> Performed Security Audit </b>
   - [Click to see Memorandum (Google CyberSecurity Professional Certificate Activity)](https://docs.google.com/document/d/18aXHa4Q34uZ8Jw6q6KuT3h_yJpL9xUeZWXF3TZhfdX0/edit?usp=sharing&resourcekey=0-FTiPoj4huT2KBvJ1OherIw)
 - <b> Used the NIST Cybersecurity Framework to respond to a security incident</b>
@@ -23,11 +23,11 @@
 <br>
 <h2> 🐍 Python Projects</h2>
 
-- <b>RoboSpeaker (CLI TextToSpeech generator)    </b>   [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
-- <b>WeatherNow (RealTime Weather Infomator)     </b>   [Link to Repository](https://github.com/suhanichoudharry/WeatherNow)
-- <b>ResizeImage (Change dimensions of a file)     </b>   [Link to Repository](https://github.com/suhanichoudharry/ResizeImage)
-- <b>PdfMerger (Can merge two or more pdfs together)     </b>   [Link to Repository](https://github.com/suhanichoudharry/PdfMerger)
-- <b>Recognise (Face-Detection Attendance System)     </b>   [Link to Repository](https://github.com/suhanichoudharry/Recognise)
+- <b>Project (1)    </b>   [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
+- <b>Project (2)     </b>   [Link to Repository](https://github.com/suhanichoudharry/WeatherNow)
+- <b>Project (3)     </b>   [Link to Repository](https://github.com/suhanichoudharry/ResizeImage)
+- <b>Project (4)     </b>   [Link to Repository](https://github.com/suhanichoudharry/PdfMerger)
+- <b>Project (5)     </b>   [Link to Repository](https://github.com/suhanichoudharry/Recognise)
 <br>
 <br>
 <h2> 🖊 Research based Projects</h2>
