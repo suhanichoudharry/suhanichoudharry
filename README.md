@@ -3,8 +3,10 @@
 <h2>👨‍💻 CyberSecurity Projects</h2>
 
 
-- <b>project</b>
-  - [LINK](https://github.com/suhanichoudharry/AntidoteAntivirus)
+- <b>Proactive Security Tool</b>
+  - [Project link](https://github.com/suhanichoudharry/AntidoteAI)
+- <b>Signature based malware analysis</b>
+  - [Project link](https://github.com/suhanichoudharry/AntidoteAntivirus)
 - <b> Performed Security Audit </b>
   - [Click to see Memorandum (Google CyberSecurity Professional Certificate Activity)](https://docs.google.com/document/d/18aXHa4Q34uZ8Jw6q6KuT3h_yJpL9xUeZWXF3TZhfdX0/edit?usp=sharing&resourcekey=0-FTiPoj4huT2KBvJ1OherIw)
 - <b> Used the NIST Cybersecurity Framework to respond to a security incident</b>
@@ -21,25 +23,20 @@
 - <b>Google CyberSecurity Professional Certificate</b> [Verify](https://drive.google.com/file/d/1uHHy_RFyDBtDfDMDxKqIRoMLWkVQFmdq/view?usp=sharing)
 <br>
 <br>
-<h2> 🐍 Python Projects</h2>
 
-- <b>Project (1)    </b>   [Link to Repository](https://github.com/suhanichoudharry/RoboSpeaker)
-- <b>Project (2)     </b>   [Link to Repository](https://github.com/suhanichoudharry/WeatherNow)
-- <b>Project (3)     </b>   [Link to Repository](https://github.com/suhanichoudharry/ResizeImage)
-- <b>Project (4)     </b>   [Link to Repository](https://github.com/suhanichoudharry/PdfMerger)
-- <b>Project (5)     </b>   [Link to Repository](https://github.com/suhanichoudharry/Recognise)
-<br>
-<br>
 <h2> 🖊 Research based Projects</h2>
 
 - <b>Phishing Simulations (working currently)</b>
+- <b>Ultimate Proactive Security Tool </b>
 <br>
 <br>
 <h2> 💡 Skills</h2>
 
 - <b>Network Protocol Analyzer (Tcpdump and Wireshark)</b>
 - <b>IDS (Suricata)</b>
-- <b>SIEM (Splunk)
+- <b>SIEM (Splunk)</b>
+- <b>Python Programming, bash scripting, shell scripting, Linux</b>
+- <b>Artificial Intelligence and machine learning
 <br>
 <br>
 
